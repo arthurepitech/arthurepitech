@@ -1,8 +1,7 @@
 # Arthur-Dos-Santos
-You can find here all my profile
 
 <h1 align="center">Hi 👋, I'm Arthur Dos Santos</h1>
-<h3 align="center">A French Student in informatics at {Epitech}</h3>
+<h3 align="center">A French student in computer development at {Epitech}.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurepitech&label=Profile%20views&color=0e75b6&style=flat" alt="arthurepitech" /> </p>
 
