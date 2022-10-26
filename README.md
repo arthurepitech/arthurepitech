@@ -16,9 +16,9 @@ You can find here all my profile
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arthur-dos-santos-epitech](https://www.linkedin.com/in/arthur-dos-santos-epitech)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/arthur-dos-santos-epitech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-dos-santos-epitech" height="30" width="40" /></a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
