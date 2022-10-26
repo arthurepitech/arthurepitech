@@ -40,6 +40,6 @@ You can find here all my profile
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=morganwolff&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morganwolff&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arthurepitech&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurepitech&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
