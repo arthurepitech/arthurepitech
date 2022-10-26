@@ -3,13 +3,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurepitech&label=Profile%20views&color=0e75b6&style=flat" alt="arthurepitech" /> </p>
 
-- 🌱 I’m currently learning **in first years**
+- 🌱 I’m currently learning in 1st year in the "grandes ecoles" program
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArthurEpitech](https://github.com/ArthurEpitech)
 
-- 📫 How to reach me **arthur.dos-santos@epitech.eu**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/arthur-dos-santos-epitech](https://www.linkedin.com/in/arthur-dos-santos-epitech)
+- 📫 You can contact me at **arthur.dos-santos@epitech.eu**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
