@@ -36,7 +36,7 @@ You can find here all my profile
 <br />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=morganwolff&theme=dracula&column=7&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arthurepitech&theme=dracula&column=7&margin-w=10&no-frame=true" />
 </p>
 
 <p align="center">
